@@ -8,10 +8,10 @@ _1. Russian 2. Kazakh 3. Korean 4. English_
 ## Contacts ##
 * phone: +821084348497 
 * email: kim.igor2196@gmail.com 
-* diskord: @kyodzhiro 
+* discord: @kyodzhiro 
 ## Code sample ##
  const assert = require("chai").assert;
- 
+
 describe("Multiply", () => {
   it("fixed tests", () => {
     assert.strictEqual(multiply(1,1), 1);
